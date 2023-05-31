@@ -1,4 +1,4 @@
-# Contador com React Redux
+# Contador com React-redux
 
 Este projeto é um exemplo simples de um contador implementado usando React Redux. Ele foi desenvolvido como parte de um estudo sobre o gerenciamento de estado com Redux, seguindo o tutorial do blog beTrybe.
 
